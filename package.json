@@ -1,0 +1,13 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "topshiriq5.js",
+  "scripts": {
+    "test": "node topshiriq5.js",
+    "dev": "nodemon topshiriq5.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
